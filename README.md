@@ -31,7 +31,7 @@
    - 장애물의 방향과 거리 변화를 실시간으로 확인
 
 ### 시스템 구성
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fda68cb4-a9ba-44b0-a463-1b125f9d7887" />
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/22de96d9-1c60-4bb2-b623-e21f162fcb65" />
 
 ## 3. 선정이유
 
