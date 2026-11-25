@@ -8,6 +8,9 @@ Arduino UNO Q에 HC-SR04 초음파 센서 및 SG90 서보모터를 연결하여 
 
 ## 2. 전체 기능 블록도
 
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/b32c1b26-6bd3-4e23-a14a-8722d0bf616b" />
+
+
 아래 Mermaid는 GitHub에서 수정할 수 있는 기능 블록도이다. **블록 내부는 기능명, 화살표의 문구는 출력 데이터이자 다음 블록의 입력 데이터**를 뜻한다.
 
 ```mermaid
